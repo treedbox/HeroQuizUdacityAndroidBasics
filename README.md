@@ -16,7 +16,7 @@ Quiz with 10 questions about superheroes
 ![Wireframe](assets/wireframe.jpg)
 
 ## Tested on
-* OS: Ubuntu
+* OS: Ubuntu 17.10
 * IDE: Android Studio 3.2
 * Device: Motorola Moto G6 Plus
 * Android: 8.0.0 Oreo
