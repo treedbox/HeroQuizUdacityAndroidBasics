@@ -15,6 +15,12 @@ Quiz with 10 questions about superheroes
 ## Wireframe
 ![Wireframe](assets/wireframe.jpg)
 
+## Tested on
+* OS: Ubuntu
+* IDE: Android Studio 3.2
+* Device: Motorola Moto G6 Plus
+* Android: 8.0.0 Oreo
+
 ## Resources
 Image background and icon:
 * [Venom vs. Bizarro](https://www.flickr.com/photos/jdhancock/4332013224/)
