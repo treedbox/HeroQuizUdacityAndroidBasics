@@ -18,8 +18,8 @@ Quiz with 10 questions about superheroes
 ## Resources
 Image background and icon:
 * [Venom vs. Bizarro](https://www.flickr.com/photos/jdhancock/4332013224/)
-  * [JD Hancock]('https://www.flickr.com/photos/jdhancock/')
-    * [Licenced under Creative Commons 2.0]('https://creativecommons.org/licenses/by/2.0/')
+  * [JD Hancock](https://www.flickr.com/photos/jdhancock/)
+    * [Licenced under Creative Commons 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ## Meta
 Front-End Developer: [Jonimar Marques Policarpo](http://linkedin.com/treedbox 'LinkEdin')
