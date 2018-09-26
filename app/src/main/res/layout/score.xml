@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/questions"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Score">
+
+    <TextView
+        style="@style/bigText"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/score"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/score_text_view"
+        style="@style/scoreNumber"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="@string/actual_score"
+        android:textAlignment="center"
+        android:textColor="@android:color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            style="@style/score_details"
+            android:text="@string/of" />
+
+        <TextView
+            android:id="@+id/max_score_text_view"
+            style="@style/big_score_details"
+            android:text="@string/max_score" />
+    </LinearLayout>
+
+    <Button
+        style="@style/smallButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="30dp"
+        android:onClick="restartQuiz"
+        android:text="@string/try_again" />
+</LinearLayout>

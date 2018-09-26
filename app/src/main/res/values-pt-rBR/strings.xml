@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start">Iniciar</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Pontos</string>
+    <string name="of">de</string>
+    <string name="try_again">Reiniciar</string>
+    <string name="question1">Batman é de qual universo?</string>
+    <string name="question2">Qual herói é rei de Wakanda?</string>
+    <string name="question2_answer1">Pantera Cor-de-Rosa</string>
+    <string name="question2_answer2">Besouro Azul</string>
+    <string name="question2_answer3">Pantera Negra</string>
+    <string name="question2_answer4">Lanterna Verde</string>
+    <string name="question3">Quais heróis fizeram parte da primeira equipe do primeiro filme Vingadores?</string>
+    <string name="question3_answer2">Homem de Ferro</string>
+    <string name="question3_answer3">Homem-Aranha</string>
+    <string name="question3_answer5">Viúva Negra</string>
+    <string name="question4">Como se escreve o nome de um inimigo do Superman?</string>
+    <string name="question5">Qual heroína tem uma série na Netflix</string>
+    <string name="question5_answer_hint">Digite sua resposta aqui</string>
+    <string name="question6">Qual herói não é vermelho?</string>
+    <string name="question6_answer1">Demolidor</string>
+    <string name="question6_answer3">Guido</string>
+    <string name="question7">Quais vilões são inimigos do Homen-Aranha?</string>
+    <string name="question7_answer3">Carnificina</string>
+    <string name="question7_answer4">Homem-Absorvente</string>
+    <string name="question8">" Gladiador Dourado é membro de qual equipe?"</string>
+    <string name="question8_answer1">Liga da Justiça</string>
+    <string name="question8_answer2">Os Incríveis</string>
+    <string name="question8_answer3">Vingadores</string>
+    <string name="question8_answer4">Vingadores da Costa Oeste</string>
+    <string name="question9">O que está associado com o Homem-Formiga?</string>
+    <string name="question9_answer1">Vespa</string>
+    <string name="question9_answer2">Mosquito</string>
+    <string name="question9_answer4">Senhor Fantástico</string>
+    <string name="question10">Quem é o pai do Thor?</string>
+    <string name="bg_image_description">Imagem de fundo de heróis</string>
+    <string name="jessica_jones">Jéssica Jones</string>
+    <string name="jessica_campbell_jones">Jéssica Campbell Jones</string>
+</resources>

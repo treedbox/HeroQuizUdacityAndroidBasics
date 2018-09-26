@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name" translatable="false">Hero Quiz</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="score">Score</string>
+    <string name="of">of</string>
+    <string name="try_again">Try Again</string>
+    <string name="actual_score" translatable="false">00</string>
+    <string name="max_score" translatable="false">100</string>
+
+    <string name="question1">Batman is from which universe?</string>
+    <string name="question1_answer1" translatable="false">Marvel</string>
+    <string name="question1_answer2" translatable="false">DC</string>
+
+    <string name="question2">Which hero is the king of Wakanda?</string>
+    <string name="question2_answer1">Pink Panther</string>
+    <string name="question2_answer2">Blue Beetle</string>
+    <string name="question2_answer3">Black Panther</string>
+    <string name="question2_answer4">Green Lantern</string>
+
+    <string name="question3">Which heroes were part of the first Avengers movie team?</string>
+    <string name="question3_answer1" translatable="false">Thor</string>
+    <string name="question3_answer2">Iron Man</string>
+    <string name="question3_answer3">Spider-Man</string>
+    <string name="question3_answer4" translatable="false">Hulk</string>
+    <string name="question3_answer5">Black Widow</string>
+    <string name="question3_answer6" translatable="false">Venon</string>
+
+    <string name="question4">How to spell the name of a Superman enemy?</string>
+    <string name="question4_answer1" translatable="false">Mixyzptlk</string>
+    <string name="question4_answer2" translatable="false">Mxyzplick</string>
+    <string name="question4_answer3" translatable="false">Mxyzptlk</string>
+
+    <string name="question5">Which heroine has a series on Netflix?</string>
+    <string name="question5_answer_hint">Type your answer here</string>
+
+    <string name="question6">Which superhero is not red?</string>
+    <string name="question6_answer1">Daredevil</string>
+    <string name="question6_answer2" translatable="false">Hellboy</string>
+    <string name="question6_answer3">Guido</string>
+    <string name="question6_answer4" translatable="false">Flash</string>
+
+    <string name="question7">Which villains are Spider-Man\'s enemies?</string>
+    <string name="question7_answer1" translatable="false">Brainiac</string>
+    <string name="question7_answer2" translatable="false">Zod</string>
+    <string name="question7_answer3">Carnage</string>
+    <string name="question7_answer4">Sandman</string>
+
+    <string name="question8">Booster Gold is a member of which team?</string>
+    <string name="question8_answer1">Justice League</string>
+    <string name="question8_answer2">The Incredibles</string>
+    <string name="question8_answer3">Avengers</string>
+    <string name="question8_answer4">Avengers West Coast</string>
+
+    <string name="question9">What is associated with Ant-man?</string>
+    <string name="question9_answer1">Wasp</string>
+    <string name="question9_answer2">Mosquito</string>
+    <string name="question9_answer3" translatable="false">Hank Pym</string>
+    <string name="question9_answer4">Mister Fantastic</string>
+
+    <string name="question10">Who is Thor\'s father?</string>
+    <string name="question10_answer1" translatable="false">Poseidon</string>
+    <string name="question10_answer2" translatable="false">Odin</string>
+    <string name="question10_answer3" translatable="false">Zeus</string>
+    <string name="question10_answer4" translatable="false">Loki</string>
+    <string name="bg_image_description">Background image of heroes</string>
+    <string name="jessica_jones">Jessica Jones</string>
+    <string name="jessica_campbell_jones">Jessica Campbell Jones</string>
+</resources>
